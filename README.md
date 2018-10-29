@@ -20,7 +20,7 @@ Before you start making a site with Omeka S it is important to plan out what you
 * In the navigation panel on the left click on "Sites" then click "Add new site" in the top right corner.  
   ![Screenshot 2][scrn2]  
 * On this page you will add a title for your page.  Type Canadian Prime Ministers into the title field.  You can also add a URL slug if you want.  If you you leave the slug field blank Omeka S will simply make one for you based on the title you chose.
-  ![Screenshot 3][scrn3-1]  
+  ![Screenshot 3][scrn3]  
 * Next click on the Theme tab.  Here we will choose what theme suits our need best.  It is possible to add more Themes than the basic four but for now we will simply choose Center Row.  
   ![Screenshot 4][scrn4]  
 * Lastly go to the Item pool tab.  Here we will just change the value in the "Search by item set" box to our "Canadian Prime Ministers" item set.  Click the Add button in the top right corner to crete our site.
