@@ -31,17 +31,27 @@ Before you start making a site with Omeka S it is important to plan out what you
 * Next we need to select a class for our item.  If you selected "Person" from the resource template drop down the the class should be "Friend of a Friend: Person".  If not then select the drop down, scroll down to the Friend of a Friend section and select Person.  Choosing an accurate class for your item is important because later on it will allow you to group similar items together more easily.
 * Now we add properties to our item.  There are more than one-hundred different properties that you can add to your items using the default Vocabularies that come with Omeka S.  By default you will have the Title and Description properties on your item.  Using the panel on the right side you can search for different properties from the vocabularies you have access to.  For this example we are making a person our item so we would want properties like Name, Brief Biography, Date of Birth, etc.  If you selected the "Person" template then these properties will have been selected for you as shown below.  Feel free to add any other properties you think may be relevant by using the menu on the right.
   ![Screenshot 6][scrn6]
-* Next we will describe each property using values.  Each property can be defined using any number of values, in any combination and quantity of three types.  This can be confusing so we will break it down.  The three values that can be used to define a property are Text, Omeka Resource, and URI.  For each property you select one or more value types by clicking the button for it on the property's bar.  Text values are simply text added to a text box describing the property, Omeka Resources are other items or item sets in Omeka that you want to use to describe the current property, URI's are usually website URL's that lead to pages that describe the property.  For now we will just use text values and we will use Sir John A. Macdonald as our subject.
+* Next we will describe each property using values.  Each property can be defined using any number of values, in any combination and quantity of three types.  This can be confusing so we will break it down.  The three values that can be used to define a property are Text, Omeka Resource, and URI.  For each property you select one or more value types by clicking the button for it on the property's bar.  Text values are simply text added to a text box describing the property, Omeka Resources are other items or item sets in Omeka that you want to use to describe the current property, URI's are usually website URL's that lead to pages that describe the property.  For now we will just use text values and we will use Sir John A. Macdonald as our subject.  
   ![Screenshot 7][scrn7]
 * Click on the media tab.  Here we can add media that helps define our item subject.  This is where you can add images and files, websites, HTML content, IIIF images via URL, oEmbed URL's, and videos from YouTube.  Feel free to add any content you like.  
 * Next is the Item sets tab.  **This is important**.  From the menu on the right side find the item set we made at the start of the tutorial and select it.  This will allow us to easily connect the items we want to our site and exclude unwanted items.  
-* Lastly is the mapping tab.  Here we can select a location that is relevant to our subject.  For Sir John A. Macdonald you could select his home country of Scotland, his grave site, the parliment building in Ottowa, or any other relevant locations.  Once you are done click Add in the top right corner.
-* You can repeat this process for any other items that you think would be relevant.
+* Lastly is the mapping tab.  Here we can select a location that is relevant to our subject.  For Sir John A. Macdonald you could select his home country of Scotland, his grave site, the parliment building in Ottowa, or any other relevant locations.  Once you are done click Add in the top right corner.  
+* You can repeat this process for any other items that you think would be relevant.  
 
-#### Step 5
-  
-  
-  
+#### Step 5 - Pages
+* Now that we have items we need to display them.  This is where pages come in.  Click on Sites in the navigation menu and then click on our Canadian Prime Ministers site from the list.  You will see that new options have been added to the navigation menu.  Click on Pages.
+* Currently we only have the default welcom page available to us.  We want our landing page to be one that we make ourselves so click the trash can icon beside the welcom page and then confirm the deletion.  You should now have no pages.  Click Add new page in the top right.
+* Make the title "Prime Ministers" and then check the add to navigation box.  Click add at the top right.  We now have a new page to work with.  
+* Click on the pencil icon for the Prime Ministers page.  We are now in the page editor where we will build our webpage.
+  ![Screenshot 8][scrn8]
+* There are a great deal of tools available here for making your webpage look they way you like it but we will just go over the basics.  Omeka S pages are made up of blocks that contain different things.  Blocks can be added from the menu on the right and can be removed by clicking the garbage can on the associated block.  Blocks can also be re-aranged simply by clicking on the icon on the top left of the block and dragging it up or down in the order.  **Keep in mind that the theme you chose for your site will affect different blocks in different ways**.
+* New pages will automatically have a title block already.  The title block displays the title of the page in a large font.  Add an HTML block to your page.  HTML block can be used in two different ways.  The first way is to simply use it the same way that you would use a text editing software like Microsoft Word.  Whatever you type in the text box will appear as written on the webpage in the position that the block is placed in.  The other way to use the HTML block is to click inside the white space and when the editor menu appears click on the button in the top left that says Source.  This will open a window into which you can write raw HTML code.  This allows you to format your page directly and offers more flexibility than the basic input field.  In the end it comes down to your personal preference.  
+* Another useful block is the Media block.  Remember the media tab from when we were creating items?  Anything that you added to an item from the media tab can be called upon by the media block as an attachment.  Add a media block and then click the add attachment button.  Select which item has the media that you would like to display and then select which piece of media you want to use.  You can also add a caption to the media which is especially useful if you are adding a picture to your page.  Once you have chosen your media and made a caption click apply changes.  You can add multiple pieces of media to the same block.  After adding all of your media select wheather you want it to be displayed as large, medium or square; select your prefered alignment; and thenchooses wheather or not you want the titles of the item that the media is from, the title of the media itsel, or no title to be dispalyed beneath each piece of media.
+* The Item showcase block works much the same way as the media block except that it can display items that have no media and it places the displayed items side by side instead of on top of each other.
+  ![Screenshot 9][scrn9]
+
+* When you are done editing your page or you just want too see what your page looks like click the save button at the top right and then click view.
+  ![Screenshot 10][scrn10]
   
   
   
@@ -57,3 +67,8 @@ Before you start making a site with Omeka S it is important to plan out what you
   [scrn4]: Scrn-shot-4.png
   [scrn6]: Scrn-shot-6.png
   [scrn7]: Scrn-shot-7.png
+  [scrn8]: Scrn-shot-8.png
+  [scrn9]: Scrn-shot-9.png
+  [scrn10]: Scrn-shot-10.png
+  [scrn11]: Scrn-shot-11.png
+  [scrn12]: Scrn-shot-12.png
