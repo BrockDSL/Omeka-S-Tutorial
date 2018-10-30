@@ -1,7 +1,5 @@
 <img src="omeka-s.png" alt="Logo" width="150px" hight="150px">
 
-[Page 2](page-2.md)
-
 # Omeka S Tutorial
 ## A very basic tutorial on Omeka-s  
 
@@ -15,7 +13,7 @@ Welcome to the wonderful world of Omeka S.  This tutorial will provide you with 
   
 
 ### Step 1 - Plan your site
-Before you start making a site with Omeka S it is important to plan out what your site will be about.  Think about what resources you want to have on your site and try to think of a term that best describes you sites theme.  For this tutorial the theme will be Canadian Prime Ministers.  
+Before you start making a site with Omeka S it is important to plan out what your site will be about.  Think about what resources you want to have on your site and try to think of a term that best describes you sites theme.  This will be used to make your item set.  For this tutorial the theme will be Canadian Prime Ministers.  
 
 ### Step 2 - Make an Item Set
 * Log in to Omeka S.  You should arrive at the Dashboard that will look something like this:  
