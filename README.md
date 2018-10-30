@@ -12,10 +12,10 @@ Welcome to the wonderful world of Omeka S.  This tutorial will provide you with 
 [Step 5 - Pages](#step-5---pages)  
   
 
-#### Step 1 - Plan your site
+### Step 1 - Plan your site
 Before you start making a site with Omeka S it is important to plan out what your site will be about.  Think about what resources you want to have on your site and try to think of a term that best describes you sites theme.  For this tutorial the theme will be Canadian Prime Ministers.  
 
-#### Step 2 - Make an Item Set
+### Step 2 - Make an Item Set
 * Log in to Omeka S.  You should arrive at the Dashboard that will look something like this:  
   ![Screenshot 1][scrn1]  
 * From the navigation menu on the left side click on "Item Sets" under the "Resources" heading.
@@ -23,7 +23,7 @@ Before you start making a site with Omeka S it is important to plan out what you
 * Item sets tie all of your resources together under a single theme.  You can use multiple item sets for a single site but for this tutorial we will just use one.  In the text box for Title write "Canadian Prime Ministers" and in the description box type "My favorite Canadian Prime Ministers".  The other options on this page will be covered in the "Items" section.
 * Click the Save button at the top right of the page.
 
-#### Step 3 - Make a Site
+### Step 3 - Make a Site
 * In the navigation panel on the left click on "Sites" then click "Add new site" in the top right corner.  
   ![Screenshot 2][scrn2]  
 * On this page you will add a title for your page.  Type Canadian Prime Ministers into the title field.  You can also add a URL slug if you want.  If you you leave the slug field blank Omeka S will simply make one for you based on the title you chose.
@@ -32,7 +32,7 @@ Before you start making a site with Omeka S it is important to plan out what you
   ![Screenshot 4][scrn4]  
 * Lastly go to the Item pool tab.  Here we will just change the value in the "Search by item set" box to our "Canadian Prime Ministers" item set.  Click the Add button in the top right corner to crete our site.
 
-#### Step 4 - Items  
+### Step 4 - Items  
 * Now that we have a site we need items to add to it.  Items in Omeka S are not the simple files that you may be used to working with.  Omeka S allows you to add all sorts of metadata to each item so it might be helpful to think of items in Omeka S as a collection of metadata referencing a central topic.  To make a new item start by clicking on the "Items" button under the "Resourses" heading in the navigation menu.  Here you will see a list of all the items that can be used by your sites.  Click the "Add new item" button in the top right corner.  
 * Now we need to add data to our item.  When making a new item generally the first thing you want to do is select a resource template.  The Sandbox has pre-made resource templates covering most broad topics.  **You do not need to select a resource template, they are simply a tool that allows you to make multiple items that have the same properties more easily.**  For this example we are going to select "Person" from the resource template list.  Selecting a resource template will automatically choose the class and add all of the properties that are relevant to that type of resource.  
 * Next we need to select a class for our item.  If you selected "Person" from the resource template drop down the the class should be "Friend of a Friend: Person".  If not then select the drop down, scroll down to the Friend of a Friend section and select Person.  Choosing an accurate class for your item is important because later on it will allow you to group similar items together more easily.
@@ -45,15 +45,15 @@ Before you start making a site with Omeka S it is important to plan out what you
 * Lastly is the mapping tab.  Here we can select a location that is relevant to our subject.  For Sir John A. Macdonald you could select his home country of Scotland, his grave site, the parliment building in Ottowa, or any other relevant locations.  Once you are done click Add in the top right corner.  
 * You can repeat this process for any other items that you think would be relevant.  
 
-#### Step 5 - Pages
+### Step 5 - Pages
 * Now that we have items we need to display them.  This is where pages come in.  Click on Sites in the navigation menu and then click on our Canadian Prime Ministers site from the list.  You will see that new options have been added to the navigation menu.  Click on Pages.
-* Currently we only have the default welcom page available to us.  We want our landing page to be one that we make ourselves so click the trash can icon beside the welcom page and then confirm the deletion.  You should now have no pages.  Click Add new page in the top right.
-* Make the title "Prime Ministers" and then check the add to navigation box.  Click add at the top right.  We now have a new page to work with.  
+* Currently we only have the default welcome page available to us.  We want our landing page to be one that we make ourselves so click the trash can icon beside the welcom page and then confirm the deletion.  You should now have no pages.  Click Add new page in the top right.
+* Make the title "Prime Ministers" and then check the add to navigation box.  The add to navigation button will add a link to this page onto the navigation bar at the top of all of your pages so you can easily navigate your site.  Click add at the top right.  We now have a new page to work with.  
 * Click on the pencil icon for the Prime Ministers page.  We are now in the page editor where we will build our webpage.
   ![Screenshot 8][scrn8]
 * There are a great deal of tools available here for making your webpage look they way you like it but we will just go over the basics.  Omeka S pages are made up of blocks that contain different things.  Blocks can be added from the menu on the right and can be removed by clicking the garbage can on the associated block.  Blocks can also be re-aranged simply by clicking on the icon on the top left of the block and dragging it up or down in the order.  **Keep in mind that the theme you chose for your site will affect different blocks in different ways**.
 * New pages will automatically have a title block already.  The title block displays the title of the page in a large font.  Add an HTML block to your page.  HTML block can be used in two different ways.  The first way is to simply use it the same way that you would use a text editing software like Microsoft Word.  Whatever you type in the text box will appear as written on the webpage in the position that the block is placed in.  The other way to use the HTML block is to click inside the white space and when the editor menu appears click on the button in the top left that says Source.  This will open a window into which you can write raw HTML code.  This allows you to format your page directly and offers more flexibility than the basic input field.  In the end it comes down to your personal preference.  
-* Another useful block is the Media block.  Remember the media tab from when we were creating items?  Anything that you added to an item from the media tab can be called upon by the media block as an attachment.  Add a media block and then click the add attachment button.  Select which item has the media that you would like to display and then select which piece of media you want to use.  You can also add a caption to the media which is especially useful if you are adding a picture to your page.  Once you have chosen your media and made a caption click apply changes.  You can add multiple pieces of media to the same block.  After adding all of your media select wheather you want it to be displayed as large, medium or square; select your prefered alignment; and thenchooses wheather or not you want the titles of the item that the media is from, the title of the media itsel, or no title to be dispalyed beneath each piece of media.
+* Another useful block is the Media block.  Remember the media tab from when we were creating items?  Anything that you added to an item from the media tab can be called upon by the media block as an attachment.  Add a media block and then click the add attachment button.  Select which item has the media that you would like to display and then select which piece of media you want to use.  You can also add a caption to the media which is especially useful if you are adding a picture to your page.  Once you have chosen your media and made a caption click apply changes.  You can add multiple pieces of media to the same block.  After adding all of your media select wheather you want it to be displayed as large, medium or square; select your prefered alignment; and then choose wheather or not you want the titles of the item that the media is from, the title of the media itself, or no title to be dispalyed beneath each piece of media.
 * The Item showcase block works much the same way as the media block except that it can display items that have no media and it places the displayed items side by side instead of on top of each other.
   ![Screenshot 9][scrn9]
 
