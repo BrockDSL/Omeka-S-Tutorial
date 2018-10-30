@@ -62,7 +62,8 @@ Before you start making a site with Omeka S it is important to plan out what you
   
 * Once you have made a few pages and organised them how you see fit you can make use of the Omeka S page navigation options.  On the side bar when you have your site selected you will see a Navigation button.  This is where you can set up the hierarchy of your pages by dragging them onto each other like below.
   ![Screenshot 11][scrn11]  
-  
+* Once you have a page hierarchy set up you can use the Table of contents block.  In the parent page (Prime Ministers in the example above) add the Table of contents block and choose how many layers deep you want it to go.  In our example all of the other pages are ubder the Prime Ministers page so we only have one layer.  **Keep in mind that making a page into a subpage removes it from the main navigation bar for your site**.  Below we have made a Table of contents for our sub pages.
+  ![Screenshot 12][scrn12]  
   
   
   
