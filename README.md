@@ -1,5 +1,7 @@
 <img src="omeka-s.png" alt="Logo" width="150px" hight="150px">
 
+[Page 2](page-2.md)
+
 # Omeka S Tutorial
 ## A very basic tutorial on Omeka-s  
 
