@@ -69,7 +69,7 @@ Before you start making a site with Omeka S it is important to plan out what you
 * Once you have a page hierarchy set up you can use the Table of contents block.  In the parent page (Prime Ministers in the example above) add the Table of contents block and choose how many layers deep you want it to go.  In our example all of the other pages are ubder the Prime Ministers page so we only have one layer.  **Keep in mind that making a page into a subpage removes it from the main navigation bar for your site**.  Below we have made a Table of contents for our sub pages.
   ![Screenshot 12][scrn12]  
   
-## Step 6 - Make your site public
+### Step 6 - Make your site public
 
 * Go to the sites page.  You will notice that some sites have an eye with a line through it beside the name.  This means that the site is private and can only be viewed on Omeka S by users who have access to it.  To make a site public select the pencil beside the sites name.  At the top right of the page you will see an eye.  This is the toggle that allows you to make your site public or private.
   
