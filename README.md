@@ -6,7 +6,9 @@
 Welcome to the wonderful world of Omeka S.  This tutorial will provide you with the basic tools you will need to start working with Omeka S.  For this tutorial we recommend that you follow along on one of the [Omeka S Sandbox accounts.](https://omeka.org/s/download/#sandbox)  Keep in mind that these accounts wipe all data a few times per week as they are meant for demo use only.
 
 [Step 1 - Plan your site](#step-1---plan-your-site)  
+
 [Step 2 - Make an Item Set](#step-2---make-an-item-set)  
+
 [Step 3 - Make a Site](#step-3---make-a-site)  
 [Step 4 - Items](step-4---items)  
 [Step 5 - Pages](step-5---pages)  
