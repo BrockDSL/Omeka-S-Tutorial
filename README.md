@@ -60,6 +60,9 @@ Before you start making a site with Omeka S it is important to plan out what you
 * When you are done editing your page or you just want too see what your page looks like click the save button at the top right and then click view.
   ![Screenshot 10][scrn10]
   
+* Once you have made a few pages and organised them how you see fit you can make use of the Omeka S page navigation options.  On the side bar when you have your site selected you will see a Navigation button.  This is where you can set up the hierarchy of your pages by dragging them onto each other like below.
+  ![Screenshot 11][scrn11]  
+  
   
   
   
