@@ -5,6 +5,8 @@
 
 Welcome to the wonderful world of Omeka S.  This tutorial will provide you with the basic tools you will need to start working with Omeka S.  For this tutorial we recommend that you follow along on one of the [Omeka S Sandbox accounts.](https://omeka.org/s/download/#sandbox)  Keep in mind that these accounts wipe all data a few times per week as they are meant for demo use only.
 
+[Step 1 - Plan your site](#step-1---plan-your-site)
+
 #### Step 1 - Plan your site
 Before you start making a site with Omeka S it is important to plan out what your site will be about.  Think about what resources you want to have on your site and try to think of a term that best describes you sites theme.  For this tutorial the theme will be Canadian Prime Ministers.  
 
