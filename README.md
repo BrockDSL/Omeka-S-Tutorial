@@ -5,7 +5,7 @@
 
 Welcome to the wonderful world of Omeka S.  This tutorial will provide you with the basic tools you will need to start working with Omeka S.  For this tutorial we recommend that you follow along on one of the [Omeka S Sandbox accounts.](https://omeka.org/s/download/#sandbox)  Keep in mind that these accounts wipe all data a few times per week as they are meant for demo use only.
 
-Another excellent resource is the [Omeka S Manual](https://omeka.org/s/docs/user-manual/) which explains each option in the Navigation Menu on the left side of the Omeka workspace in great detail.
+Another excellent resource is the [Omeka S Manual](https://omeka.org/s/docs/user-manual/) which explains each option in the Omeka workspace in great detail.
 
 
 ## Steps
@@ -24,7 +24,7 @@ Before you start making a site with Omeka S it is important to plan out what you
   ![Screenshot 1][scrn1]  
 * From the navigation menu on the left side click on "Item Sets" under the "Resources" heading.
 * Click on the "Add new item set" button in the top right corner.
-* Item sets tie all of your resources together under a single theme.  You can use multiple item sets for a single site but for this tutorial we will just use one.  In the text box for Title write "Canadian Prime Ministers" and in the description box type "My favorite Canadian Prime Ministers".  The other options on this page will be covered in the "Items" section.
+* Item sets tie all of your resources together under a single theme.  You can use multiple item sets for a single site but for this tutorial we will just use one.  In the text box for Title write "Canadian Prime Ministers" and in the description box type "My favorite Canadian Prime Ministers".  The other options on this page will be covered in the [Items](#step-4---items) section.
 * Click the Save button at the top right of the page.
 
 ### Step 3 - Make a Site
