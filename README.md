@@ -79,6 +79,7 @@ Before you start making a site with Omeka S it is important to plan out what you
   
   
   
+  
   [scrn1]: Scrn-shot-1.png
   [scrn2]: Scrn-shot-2.png
   [scrn3]: Scrn-shot-3-1.png
