@@ -1,7 +1,8 @@
 <img src="omeka-s.png" alt="Logo" width="150px" hight="150px">
 
-# Omeka S Tutorial
-## A very basic tutorial on Omeka-s  
+<h1>Omeka S Tutorial</h1>
+
+<p><strong> A very basic tutorial on Omeka-s </strong></p>  
 
 Welcome to the wonderful world of Omeka S.  This tutorial will provide you with the basic tools you will need to start working with Omeka S.  For this tutorial we recommend that you follow along on one of the [Omeka S Sandbox accounts.](https://omeka.org/s/download/#sandbox)  Keep in mind that these accounts wipe all data a few times per week as they are meant for demo use only.
 
