@@ -9,7 +9,7 @@ Welcome to the wonderful world of Omeka S.  This tutorial will provide you with 
 Another excellent resource is the [Omeka S Manual](https://omeka.org/s/docs/user-manual/) which explains each option in the Omeka workspace in great detail.
 
 
-## Steps
+**Steps**  
 [Step 1 - Plan your site](#step-1---plan-your-site)  
 [Step 2 - Make an Item Set](#step-2---make-an-item-set)  
 [Step 3 - Make a Site](#step-3---make-a-site)  
