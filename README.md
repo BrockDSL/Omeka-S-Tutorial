@@ -74,7 +74,7 @@ And just like that you have an active exhibit!
   
   
   
-<img src="dsl-logo.jpg" alt="Logo" width="120px" hight="120px">  
+[DSL Logo][imglogo]  
   
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
 Look us up on:  
@@ -82,7 +82,7 @@ Look us up on:
 [Twitter](https://twitter.com/brock_dsl)  
 [Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
   
-  
+  [imglogo]: dsl-logo.jpg
   [scrn1]: Scrn-shot-1.png
   [scrn2]: Scrn-shot-2.png
   [scrn3]: Scrn-shot-3-1.png
