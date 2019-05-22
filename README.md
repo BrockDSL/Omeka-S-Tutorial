@@ -1,21 +1,15 @@
 <img src="omeka-s.png" alt="Logo" width="150px" hight="150px">
 
-<h1>Omeka S Tutorial</h1>
+# Omeka S Tutorial
+A very basic tutorial on Omeka S
 
-<p><strong> A very basic tutorial on Omeka S </strong></p>  
+
 
 Welcome to the wonderful world of Omeka S.  This tutorial will provide you with the basic tools you will need to start working with Omeka S.  For this tutorial we recommend that you follow along on one of the [Omeka S Sandbox accounts.](https://omeka.org/s/download/#sandbox)  Keep in mind that these accounts wipe all data a few times per week as they are meant for demo use only.
 
 Another excellent resource is the [Omeka S Manual](https://omeka.org/s/docs/user-manual/) which explains each option in the Omeka workspace in great detail.
 
 
-**Steps**  
-[Step 1 - Plan your site](#step-1---plan-your-site)  
-[Step 2 - Make an Item Set](#step-2---make-an-item-set)  
-[Step 3 - Make a Site](#step-3---make-a-site)  
-[Step 4 - Items](#step-4---items)  
-[Step 5 - Pages](#step-5---pages)  
-[Step 6 - Make your site public](#step-6---make-your-site-public)  
 
 ### Step 1 - Plan your site
 Before you start making a site with Omeka S it is important to plan out what your site will be about.  Think about what resources you want to have on your site and try to think of a term that best describes your site's theme.  This will be used to make your item set.  For this tutorial the theme will be Canadian Prime Ministers.  
