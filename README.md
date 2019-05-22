@@ -69,9 +69,9 @@ Before you start making a site with Omeka S it is important to plan out what you
 * Go to the site's page.  You will notice that some sites have an eye with a line through it beside the name.  This means that the site is private and can only be viewed on Omeka S by users who have access to it.  To make a site public select the pencil beside the site's name.  At the top right of the page you will see an eye.  This is the toggle that allows you to make your site public or private.
   
 And just like that you have an active exhibit!  
-&nsdb  
-  
-  
+
+
+
   
   
 ![DSL Logo][imglogo]  
