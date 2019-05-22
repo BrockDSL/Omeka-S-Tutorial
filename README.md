@@ -73,7 +73,7 @@ And just like that you have an active exhibit!
   
   
   
-  <img src="dsl-logo.jpg" alt="Logo" width="50px" hight="50px">  
+  <img src="dsl-logo.jpg" alt="Logo" width="120px" hight="120px">  
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
 Look us up on:  
 [Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
