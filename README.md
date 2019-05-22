@@ -71,7 +71,7 @@ Before you start making a site with Omeka S it is important to plan out what you
 And just like that you have an active exhibit!  
   
   
-  
+--------
   
   
 ![DSL Logo][imglogo]  
