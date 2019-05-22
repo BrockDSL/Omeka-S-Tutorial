@@ -68,12 +68,13 @@ Before you start making a site with Omeka S it is important to plan out what you
 
 * Go to the site's page.  You will notice that some sites have an eye with a line through it beside the name.  This means that the site is private and can only be viewed on Omeka S by users who have access to it.  To make a site public select the pencil beside the site's name.  At the top right of the page you will see an eye.  This is the toggle that allows you to make your site public or private.
   
-And just like that you have an active exhibit!
+And just like that you have an active exhibit!  
   
   
   
   
-  <img src="dsl-logo.jpg" alt="Logo" width="120px" hight="120px">  
+  
+<img src="dsl-logo.jpg" alt="Logo" width="120px" hight="120px">  
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
 Look us up on:  
 [Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
