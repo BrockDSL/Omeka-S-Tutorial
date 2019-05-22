@@ -84,7 +84,7 @@ You can also find us on:
 [Twitter](https://twitter.com/brock_dsl)  
 [Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
   
-  [imglogo]: dsl-logo.jpg
+  [imglogo]: dsl-logo.png
   [scrn1]: Scrn-shot-1.png
   [scrn2]: Scrn-shot-2.png
   [scrn3]: Scrn-shot-3-1.png
