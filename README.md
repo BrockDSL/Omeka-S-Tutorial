@@ -40,7 +40,7 @@ Before you start making a site with Omeka S it is important to plan out what you
   ![Screenshot 7][scrn7]
 * Click on the media tab.  Here we can add media that helps define our item subject.  This is where you can add images and files, websites, HTML content, IIIF images via URL, oEmbed URL's, and videos from YouTube.  Feel free to add any content you like.  
 * Next is the Item sets tab.  **This is important**.  From the menu on the right side find the item set we made at the start of the tutorial and select it.  This will allow us to easily connect the items we want to our site and exclude unwanted items.  
-* Next is the Sites tab.  **This is also important**.  This is a new tab added in Omeka S version 3.0.  In this tab you must select which site the item will be assigned to.  This will allow that item to be sed on that site.
+* Next is the Sites tab.  **This is also important**.  This is a new tab added in Omeka S version 3.0.  In this tab you must select which site the item will be assigned to.  This will allow that item to be used on that site.
 * Lastly is the mapping tab.  Here we can select a location that is relevant to our subject.  This tab may not be available if you do not have the mapping module installed.  For Sir John A. Macdonald you could select his home country of Scotland, his grave site, the parliment building in Ottawa, or any other relevant locations.  Once you are done click "Add" in the top right corner.  
 * Repeat this process for two more Prime Ministers of Canada of your choice.  
 
